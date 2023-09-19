@@ -1,0 +1,15 @@
+body{
+    background-color: #1818;
+}
+
+.logo{
+    max-width: 50px;
+}
+
+ul{
+    margin: auto;
+    padding: 2rem, 1rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
